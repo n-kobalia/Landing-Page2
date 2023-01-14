@@ -116,7 +116,6 @@ h1{
     grid-area: grid-item1;
     background: linear-gradient(180deg, rgba(30, 30, 28, 0) 62%, rgba(20, 20, 18, 0.9) 100%), 
     url(../img/pic1.png);
-    gap: 139px;
     
 }
 
@@ -131,21 +130,18 @@ h1{
     grid-area: grid-item3;
     background: linear-gradient(180deg, rgba(30, 30, 27, 0) 56.6%, rgba(36, 36, 33, 0.9) 98.88%), 
     url(../img/pic4.png);
-    gap: 139px;
 }
 
 .grid-item4{
     grid-area: grid-item4;
     background: linear-gradient(180deg, rgba(54, 53, 48, 0) 64.7%, rgba(0, 0, 0, 0.9) 100%), 
     url(../img/pic2.png);
-    gap: 142px;
 }
 
 .grid-item5{
     grid-area: grid-item5;
     background: linear-gradient(180deg, rgba(26, 26, 25, 0) 56.79%, rgba(20, 20, 18, 0.9) 102.85%), 
     url(../img/pic5.png);
-    gap: 152px;
 }
 
 .grid-item6{
