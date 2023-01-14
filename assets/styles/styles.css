@@ -72,7 +72,7 @@ h1{
     padding-bottom: 16px;
 }
 
-p{
+.description{
     font-weight: 400;
     font-size: 16px;
     line-height: 16px;
@@ -119,6 +119,7 @@ p{
     "grid-item1 grid-item2 grid-item3 grid-item3"
     "grid-item4 grid-item2 grid-item5 grid-item6"
     ;
+    padding-bottom: 85px;
 }
 
 .grid-item1{
@@ -190,3 +191,52 @@ p{
     color: #FFFFFF;
 }
 
+.footer{
+    padding: 0 135px 0 135px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-left{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.footer-left a{
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #5B5F62;
+}
+
+.footer-right{
+    display: flex;
+    gap: 114px;
+}
+
+.footer-info{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.footer-info p {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    color: #2D3134;
+    padding-bottom: 22px;
+}
+
+.footer-info a {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 34px;
+    color: #676A6C;
+}
