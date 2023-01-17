@@ -263,3 +263,33 @@ h1 {
   line-height: 34px;
   color: #676a6c;
 }
+
+.grid-item1:hover > span {
+  background-color: white;
+  color: black;
+}
+
+.grid-item2:hover > span {
+  background-color: white;
+  color: black;
+}
+
+.grid-item3:hover > span {
+  background-color: white;
+  color: black;
+}
+
+.grid-item4:hover > span {
+  background-color: white;
+  color: black;
+}
+
+.grid-item5:hover > span {
+  background-color: white;
+  color: black;
+}
+
+.grid-item6:hover > span {
+  background-color: white;
+  color: black;
+}
